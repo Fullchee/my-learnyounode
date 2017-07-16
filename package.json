@@ -1,0 +1,19 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "My attempt at learnyounode",
+  "main": "01-hello-world.js",
+  "dependencies": {
+    "bl": "^1.2.0",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learnyounode"
+  ],
+  "author": "Fullchee Zhang",
+  "license": "ISC"
+}
