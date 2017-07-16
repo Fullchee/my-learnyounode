@@ -5,11 +5,12 @@
   "main": "01-hello-world.js",
   "dependencies": {
     "bl": "^1.2.0",
-    "moment": "^2.18.1"
+    "moment": "^2.18.1",
+    "through2-map": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "learnyounode verify program.js"
   },
   "keywords": [
     "learnyounode"
