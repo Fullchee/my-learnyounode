@@ -1,0 +1,16 @@
+{
+  "name": "elementary-electron",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fullchee Zhang",
+  "license": "ISC",
+  "dependencies": {
+    "cat-picture": "5.1.2",
+    "electron": "1.7.9"
+  }
+}
